@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "629972440604",
+    "project_id": "farmapp-aef3f",
+    "storage_bucket": "farmapp-aef3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629972440604:android:bb1d75e4187e18864771d9",
+        "android_client_info": {
+          "package_name": "com.hubculture.adminecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629972440604-f1nhj21m3ojsrlt911q76snvelfsms9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO9Zy7WcUlwNhZHK7U7hyTLV43ZM7nynw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629972440604-f1nhj21m3ojsrlt911q76snvelfsms9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629972440604:android:450f3d4bf7a733534771d9",
+        "android_client_info": {
+          "package_name": "com.hubculture.farmerscommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629972440604-9bhnbkbqo69b90hvfkj74770t314m5g4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hubculture.farmerscommerce",
+            "certificate_hash": "faaba4ad681dced78ac52592b9bb128c5fef2df0"
+          }
+        },
+        {
+          "client_id": "629972440604-f1nhj21m3ojsrlt911q76snvelfsms9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO9Zy7WcUlwNhZHK7U7hyTLV43ZM7nynw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629972440604-f1nhj21m3ojsrlt911q76snvelfsms9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
